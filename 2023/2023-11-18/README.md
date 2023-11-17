@@ -5,4 +5,13 @@ There’s an ant colony in your kitchen, and you might have not noticed that. [s
 
 Topics included: Nature-Inspired Computing / Evolutionary Algorithms / Ant Colony Optimization / Mazes / Ants 🐜
 
+
 [DevFest Pescara](https://devfest.gdgpescara.it/agenda/)
+
+### Links:
+[Labyrinths AD](https://www.ad-italia.it/article/i-labirinti-piu-belli-del-mondo/?utm_source=pocket-newtab-it-it)
+
+
+### Books:
+Douglas Hofstadter - Gödel, Escher, Bach
+Italo Calvino - La formica argentina
