@@ -11,7 +11,7 @@ Topics included: Nature-Inspired Computing / Evolutionary Algorithms / Ant Colon
 ### Links:
 [Labyrinths AD](https://www.ad-italia.it/article/i-labirinti-piu-belli-del-mondo/?utm_source=pocket-newtab-it-it)
 [Antwiki](https://www.antwiki.org/wiki/index.php?title=Category:Extant_species&pagefrom=Aenictus+aitkenii#mw-pages)
-
+[YT Video](https://www.youtube.com/watch?v=gZcU5odXOQY&ab_channel=Mr.Zoir)
 ### Books:
 Douglas Hofstadter - Gödel, Escher, Bach
 Italo Calvino - La formica argentina
